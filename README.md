@@ -75,7 +75,7 @@ Follow these steps to run the project locally on your machine.
 
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/KhyatiSatija/TalentBridge-MERN-App.git
+git clone https://github.com/aanyachauhan9/TalentBridge-MERN-App.git
 cd talentbridge
 ```
 
